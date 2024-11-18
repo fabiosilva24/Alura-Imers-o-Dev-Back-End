@@ -2,7 +2,7 @@
 
 ![Banner da Imersão Back-end Alura](banner.png)
 
-**Prepare-se para uma jornada épica no coração da programação!** ‍♂️
+**Prepare-se para uma jornada épica no coração da programação!**
 
 Nesta imersão, você vai:
 
