@@ -13,4 +13,4 @@ Nesta imersão, você vai:
 
 **Não perca essa oportunidade de dar um UP na sua carreira!** 
 
-**#Alura #ImersãoBackEnd #CodeYourFuture**
+**#Alura #ImersãoBackEnd #CodeYourFuture #Imersao-Back-End-Google-Gemini**
